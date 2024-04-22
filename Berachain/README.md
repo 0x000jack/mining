@@ -72,3 +72,6 @@ make start
 参考鸣谢：@tujj99 
 
 
+原文：<https://github.com/0x000jack/mining/blob/main/Berachain/README.md>
+
+
