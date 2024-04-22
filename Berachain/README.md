@@ -1,3 +1,6 @@
+# Berachain 熊链测试网搭建
+
+
 [toc]
 
 [Berachain](https://twitter.com/berachain)
@@ -9,7 +12,7 @@
 
 ## 推特
 
-[Berachain](https://twitter.com/berachain)
+[熊链Berachain](https://twitter.com/berachain)
 
 ## 背景
 
