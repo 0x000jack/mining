@@ -77,4 +77,6 @@ make start
 
 原文：<https://github.com/0x000jack/mining/blob/main/Berachain/README.md>
 
+<https://medium.com/@0x000jack/berachain-%E7%86%8A%E9%93%BE%E6%B5%8B%E8%AF%95%E7%BD%91%E6%90%AD%E5%BB%BA-ab3b9827c5af>
+
 
