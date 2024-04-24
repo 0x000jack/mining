@@ -1,3 +1,12 @@
+# Lava 节点
+
+官方教程： <https://docs.lavanet.xyz/testnet-manual/>
+
+
+
+
+
+
 明确会发币
 
 
